@@ -1,0 +1,13 @@
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\bin\Debug\netcoreapp3.1\CashMachine.exe
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\bin\Debug\netcoreapp3.1\CashMachine.deps.json
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\bin\Debug\netcoreapp3.1\CashMachine.runtimeconfig.json
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\bin\Debug\netcoreapp3.1\CashMachine.runtimeconfig.dev.json
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\bin\Debug\netcoreapp3.1\CashMachine.dll
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\bin\Debug\netcoreapp3.1\CashMachine.pdb
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\obj\Debug\netcoreapp3.1\CashMachine.csprojAssemblyReference.cache
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\obj\Debug\netcoreapp3.1\CashMachine.AssemblyInfoInputs.cache
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\obj\Debug\netcoreapp3.1\CashMachine.AssemblyInfo.cs
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\obj\Debug\netcoreapp3.1\CashMachine.csproj.CoreCompileInputs.cache
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\obj\Debug\netcoreapp3.1\CashMachine.dll
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\obj\Debug\netcoreapp3.1\CashMachine.pdb
+C:\Users\Kowalik\source\repos\CashMachine\CashMachine\obj\Debug\netcoreapp3.1\CashMachine.genruntimeconfig.cache
