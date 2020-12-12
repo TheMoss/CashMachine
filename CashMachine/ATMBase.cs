@@ -1,4 +1,4 @@
-﻿namespace CashMachine
+﻿namespace CashMachineApplication
 {
     public abstract class ATMBase
     {

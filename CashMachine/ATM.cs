@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CashMachine
+namespace CashMachineApplication
 {
     public class ATM : ATMBase
     {

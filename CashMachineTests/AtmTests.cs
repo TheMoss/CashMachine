@@ -1,4 +1,4 @@
-using CashMachine;
+using CashMachineApplication;
 using FluentAssertions;
 using NUnit.Framework;
 

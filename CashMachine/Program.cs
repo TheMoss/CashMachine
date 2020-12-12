@@ -1,5 +1,4 @@
-﻿using CashMachine;
-using System;
+﻿using System;
 namespace CashMachineApplication
 {
     public class CashMachine
