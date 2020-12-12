@@ -13,7 +13,7 @@ namespace CashMachineTests
         {
             // Arrange
             var expectedBalance = 1000;
-            ATMBase atm = new ATMActions();
+            ATMBase atm = new ATM();
             
             // Act
             atm.Deposit(1000);
@@ -27,7 +27,7 @@ namespace CashMachineTests
         {
             // Arrange
             var expectedBalance = 1000;
-            ATMBase atm = new ATMActions();
+            ATMBase atm = new ATM();
             atm.Deposit(2000);
             
             // Act
